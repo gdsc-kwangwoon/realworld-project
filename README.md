@@ -43,10 +43,23 @@ API 명세서를 제외한 기능 구현은 다음과 같습니다.
 Node.js / Spring Boot ...
 
 ## App
-작성예정 
+기술 스택(라이브러리 사용)은 자유롭게 진행하셔도 좋습니다.  
+하지만, 상태관리는 반드시 상태관리 라이브러리를 이용해서 진행해주세요. (Bloc이 아니어도 됩니다)
+
+개발에 필요한 문서는 아래와 같습니다.
+- [[API](https://realworld-docs.netlify.app/docs/specs/backend-specs/endpoints)]  
+  대부분의 기능은 `/repository`에 구현되어 있습니다.  
+  구현되지 않은 기능만 추가로 구현하면 됩니다.
+- [[모델링](https://realworld-docs.netlify.app/docs/specs/backend-specs/api-response-format)]
+- [[라우팅](https://realworld-docs.netlify.app/docs/specs/frontend-specs/routing)]
+- [[시연 영상](https://youtu.be/q7bTzzD30oU?si=ibLrVfzu101AiCKl)]  
+  앱은 RealWorld의 템플릿이 제공되지 않았기에 제가 별도로 개발하여 녹화하였습니다.
+  개발하실 때 참고하시면 좋을 거 같습니다.
+
+자세한 내용은 `/app_template`를 참고해주세요.
 
 ## 참고사항 
-진행도 및 선택된 기술 스택에 따라, 추가적인 요구사항을 드릴 예정입니다.
+진행도 및 선택된 기술 스택에 따라, 추가적인 요구사항을 드릴 예정입니다.  
 만약 우리팀의 진척도가 빠르다면, 진척도에 따라 추가적인 요구사항을 드릴 예정입니다.
 
 
