@@ -16,6 +16,6 @@ GDSC KW - App 파트의 RealWorld Project 1 템플릿 소스코드 입니다.
 
 ## 시연 영상
 
-<iframe width="720" height="480" src="https://www.youtube.com/embed/q7bTzzD30oU" title="GDSC KW - Realworld project 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/q7bTzzD30oU?si=vgmWswknj7SNO8Qm
 
 일부 필수기능이 제거된 버전입니다.
